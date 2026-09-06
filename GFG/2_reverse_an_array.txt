@@ -3,7 +3,7 @@ class Solution {
         // code here
         int l= 0;
         int o =0;
-        //sequential success 3
+        //sequential success 1
         int r=arr.length-1;
         while(l<r){
             int temp = arr[l];
