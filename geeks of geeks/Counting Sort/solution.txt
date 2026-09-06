@@ -7,7 +7,7 @@
  * Topics: Expected Complexities, Company Tags, Microsoft, Goldman Sachs, Cisco, Topic Tags, Sorting, Related Articles
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-06T21:05:52.737Z
+ * Synced: 2026-09-06T21:06:54.347Z
  */
 
 class Solution {
