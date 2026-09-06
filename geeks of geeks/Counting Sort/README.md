@@ -3,11 +3,11 @@
 - Platform: GeeksforGeeks
 - Language: Java (21)
 - Difficulty: Unknown
-- Topics: Expected Complexities, Company Tags MicrosoftGoldman SachsCisco, Company Tags, Microsoft, Goldman Sachs, Cisco, Topic Tags, Sorting
+- Topics: Expected Complexities, Company Tags, Microsoft, Goldman Sachs, Cisco, Topic Tags, Sorting, Related Articles
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/counting-sort/1
-- Synced: 2026-09-06T21:04:58.370Z
+- Synced: 2026-09-06T21:05:52.737Z
 
 ## Problem Description
 
@@ -15,4 +15,4 @@ Given a string s consisting of lowercase english letters, arrange all its letter
 
 ## Explanation
 
-This solution was accepted on GeeksforGeeks using Java (21). The detected topics are Expected Complexities, Company Tags MicrosoftGoldman SachsCisco, Company Tags, Microsoft, Goldman Sachs, Cisco, Topic Tags, Sorting. Review the synced source file for the implementation details.
+This solution was accepted on GeeksforGeeks using Java (21). The detected topics are Expected Complexities, Company Tags, Microsoft, Goldman Sachs, Cisco, Topic Tags, Sorting, Related Articles. Review the synced source file for the implementation details.
