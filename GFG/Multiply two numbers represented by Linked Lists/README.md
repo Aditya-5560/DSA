@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/dsa/multiply-two-numbers-represented-linked-lists/
-- Synced: 2026-09-06T19:10:35.599Z
+- Synced: 2026-09-06T19:11:35.595Z
 
 ## Problem Description
 
