@@ -1,15 +1,17 @@
 {
-  "submissionTimestamp": "2026-09-06T20:32:27.623Z",
+  "submissionTimestamp": "2026-09-06T20:32:32.076Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
   "tags": [
+    "Hash Table",
     "Linked List",
-    "Recursion"
+    "Two Pointers",
+    "Floyd's Cycle Finding Algorithm"
   ],
   "platform": "LeetCode",
-  "language": "Problem List",
+  "language": "Java",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/merge-two-sorted-lists/description/",
-  "submissionId": "ygfh3f"
+  "problemUrl": "https://leetcode.com/problems/linked-list-cycle/description/",
+  "submissionId": "wc7nos"
 }
