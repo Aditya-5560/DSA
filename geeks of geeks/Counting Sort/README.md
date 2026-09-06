@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/counting-sort/1
-- Synced: 2026-09-06T21:06:54.347Z
+- Synced: 2026-09-06T21:11:58.501Z
 
 ## Problem Description
 
