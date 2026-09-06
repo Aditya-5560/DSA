@@ -2,6 +2,8 @@ class Solution {
     public void reverseArray(int arr[]) {
         // code here
         int l= 0;
+        int o =0;
+        //
         int r=arr.length-1;
         while(l<r){
             int temp = arr[l];
