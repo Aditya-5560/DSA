@@ -1,0 +1,18 @@
+{
+  "submissionTimestamp": "2026-09-06T20:38:51.903Z",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "difficulty": "Unknown",
+  "tags": [
+    "Expected Complexities",
+    "Topic Tags",
+    "Arrays",
+    "Sorting",
+    "Related Articles"
+  ],
+  "platform": "GeeksforGeeks",
+  "language": "class Solution { public: static bool comparator (int a , int b) { return a > b ; // sort in decending order } bool isPossible(int k, vector<int> &arr1, vector<int> &arr2) { // Your code goes here if(arr1.size() > arr1.size()) return false; sort(arr1.begin(),arr1.end());// sort in acending order sort(arr2.begin() ,arr2.end() , comparator); // sort in decending order for(int i= 0 ; i < arr1.size() ; i++){ if(arr1[i] + arr2[i] < k ) return false; } return true; } };",
+  "problemTitle": "Permute Arrays for Sum Threshold",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/permutations-in-array1747/1",
+  "submissionId": "nyuly3"
+}
