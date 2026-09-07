@@ -9,9 +9,9 @@
 
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
-| **🎯 Apna College Sheet** | `16` | `375` | `█░░░░░░░░░░░░░░░░░` **4.3%** |
+| **🎯 Apna College Sheet** | `18` | `375` | `█░░░░░░░░░░░░░░░░░` **4.8%** |
 | **🌟 Outside Sheet Problems** | `11` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `27` | `-` | **All Platforms** |
+| **🔥 Total Solved in Repo** | `29` | `-` | **All Platforms** |
 
 ---
 
@@ -19,8 +19,8 @@
 
 | Topic | Solved | Total | Progress | Link |
 | :--- | :---: | :---: | :--- | :---: |
-| **Arrays** | `6` | `26` | `███░░░░░░░░░░░░` 23.1% | [View](#arrays) |
-| **Strings** | `2` | `22` | `█░░░░░░░░░░░░░░` 9.1% | [View](#strings) |
+| **Arrays** | `7` | `26` | `████░░░░░░░░░░░` 26.9% | [View](#arrays) |
+| **Strings** | `3` | `22` | `██░░░░░░░░░░░░░` 13.6% | [View](#strings) |
 | **2D Arrays** | `1` | `10` | `██░░░░░░░░░░░░░` 10.0% | [View](#2d-arrays) |
 | **Searching & Sorting** | `0` | `23` | `░░░░░░░░░░░░░░░` 0.0% | [View](#searching-sorting) |
 | **Backtracking** | `0` | `21` | `░░░░░░░░░░░░░░░` 0.0% | [View](#backtracking) |
@@ -64,7 +64,7 @@
 ## 📚 Apna College Sheet Questions by Topic
 
 <details>
-<summary><h3 style="display:inline" id="arrays">📂 Arrays &nbsp;—&nbsp; 6/26 Solved (23.1%)</h3></summary>
+<summary><h3 style="display:inline" id="arrays">📂 Arrays &nbsp;—&nbsp; 7/26 Solved (26.9%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -74,7 +74,7 @@
 | ⬜ | 4 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Amazon Interview Qs | - | - |
 | ⬜ | 5 | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/chocolate-distribution-problem/) | Amazon Interview Qs | - | - |
 | ⬜ | 6 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Microsoft Google Adobe Amazon D-E-Shaw Flipkart Hike Intuit MakeMyTrip Paytm | - | - |
-| ⬜ | 7 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Uber + Goldman Sachs + Adobe Interview Qs | - | - |
+| ✅ | 7 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Uber + Goldman Sachs + Adobe Interview Qs | - | [GFG](Geeks%20For%20Geeks/Next%20Permutation/solution.java) |
 | ✅ | 8 | [Best time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Amazon D-E-Shaw Directi Flipkart Goldman Sachs Intuit MakeMyTrip Microsoft Ola Cabs Oracle Paytm Pubmatic Quikr Salesforce Sapient Swiggy Walmart Media.net Google | - | [LeetCode](Leetcode/121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.java) |
 | ⬜ | 9 | [Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | Amazon Interview Qs | - | - |
 | ⬜ | 10 | [Kth-Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Amazon Microsoft Walmart Adobe | - | - |
@@ -100,7 +100,7 @@
 </details>
 
 <details>
-<summary><h3 style="display:inline" id="strings">📂 Strings &nbsp;—&nbsp; 2/22 Solved (9.1%)</h3></summary>
+<summary><h3 style="display:inline" id="strings">📂 Strings &nbsp;—&nbsp; 3/22 Solved (13.6%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -116,7 +116,7 @@
 | ⬜ | 36 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Samsung + Adobe + Amazon Interview Qs | - | - |
 | ⬜ | 37 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Microsoft + Google + Samsung + Visa IQ | - | - |
 | ⬜ | 38 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Microsoft IQ | - | - |
-| ⬜ | 39 | [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1) | Adobe + Goldman Sachs + Uber | - | - |
+| ✅ | 39 | [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1) | Adobe + Goldman Sachs + Uber | - | [GFG](Geeks%20For%20Geeks/Next%20Permutation/solution.java) |
 | ⬜ | 40 | [Count Palindromic Subsequences](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1) | Myntra Interview Qs | - | - |
 | ⬜ | 41 | [Smallest Window in a String Containing all the Characters of Another String](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1) | Microsoft + Amazon IQ | - | - |
 | ⬜ | 42 | [Wildcard String Matching](https://practice.geeksforgeeks.org/problems/wildcard-string-matching1126/1) | Microsoft + Amazon + Ola IQ | - | - |
