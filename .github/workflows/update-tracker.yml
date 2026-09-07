@@ -1,0 +1,40 @@
+name: Auto-Update DSA Tracking Sheet
+
+on:
+  push:
+    paths:
+      - 'Leetcode/**'
+      - 'GFG/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-tracking-sheet:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Tracker
+        run: python3 scripts/tracker.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-update DSA tracking sheet [skip ci]"
+            git push
+          else
+            echo "No changes detected in README.md."
+          fi
