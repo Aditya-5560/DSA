@@ -441,13 +441,6 @@ def generate_markdown(sheet_data, matched_sheet_solutions, extra_solved):
             lines.append(f"| {idx} | {status} | {title_cell} | {plat_cell} | {sol_cell} | {info_str} |")
 
         lines.append("\n</details>\n")
-
-    lines.append("---")
-    lines.append("### 🔄 Automatic Online Tracking\n")
-    lines.append("This tracking sheet is updated automatically via **GitHub Actions**:")
-    lines.append("1. **LeetCode & GFG Extensions:** When you submit a solution on LeetCode or GeeksforGeeks, your browser extension auto-commits the solution to `Leetcode/` or `GFG/` in this repository.")
-    lines.append("2. **Cloud Automation:** GitHub Actions (`.github/workflows/update-tracker.yml`) automatically triggers on push, evaluates solved problems against the Apna College Sheet, and commits the updated `README.md` directly on GitHub.\n")
-
     return "\n".join(lines)
 
 def main():
