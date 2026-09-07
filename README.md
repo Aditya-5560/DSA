@@ -5,13 +5,13 @@
 
 ---
 
-## 📊 Overall Progress Summary
+                                                  ## 📊 Overall Progress Summary
 
-| Metric | Solved | Total | Progress |
-| :--- | :---: | :---: | :--- |
-| **🎯 Apna College Sheet** | `16` | `375` | `█░░░░░░░░░░░░░░░░░` **4.3%** |
-| **🌟 Outside Sheet Problems** | `10` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `26` | `-` | **All Platforms** |
+                            | Metric | Solved | Total | Progress |
+                            | :--- | :---: | :---: | :--- |
+                            | **🎯 Apna College Sheet** | `16` | `375` | `█░░░░░░░░░░░░░░░░░` **4.3%** |
+                            | **🌟 Outside Sheet Problems** | `10` | `-` | `██████████████████` **Tracked** |
+                            | **🔥 Total Solved in Repo** | `26` | `-` | **All Platforms** |
 
 ---
 
