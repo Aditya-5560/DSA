@@ -5,8 +5,10 @@ on:
     branches:
       - main
     paths:
+      - 'Leetcode/**'
       - 'leetcode/**'
       - 'Geeks For Geeks/**'
+      - 'GFG/**'
       - '.github/scripts/**'
   workflow_dispatch:
 

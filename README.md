@@ -1,7 +1,7 @@
 # 🎯 DSA Tracker - Apna College Sheet (375 Questions)
 
 > Automated progress tracking for **DSA by Shradha Didi & Aman Bhaiya (Apna College)**.
-> Automatically synced via **LeetSync** (`leetcode/`), **GeekSync** (`Geeks For Geeks/`), and **GitHub Actions**.
+> Automatically synced via **LeetSync** (`Leetcode/`), **GeekSync** (`Geeks For Geeks/`), and **GitHub Actions**.
 
 ---
 
@@ -9,9 +9,9 @@
 
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
-| **🎯 Apna College Sheet** | `34` | `375` | `██░░░░░░░░░░░░░░░░` **9.1%** |
-| **🌟 Outside Sheet Problems** | `11` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `45` | `-` | **All Platforms** |
+| **🎯 Apna College Sheet** | `16` | `375` | `█░░░░░░░░░░░░░░░░░` **4.3%** |
+| **🌟 Outside Sheet Problems** | `10` | `-` | `██████████████████` **Tracked** |
+| **🔥 Total Solved in Repo** | `26` | `-` | **All Platforms** |
 
 ---
 
@@ -19,47 +19,66 @@
 
 | Topic | Solved | Total | Progress | Link |
 | :--- | :---: | :---: | :--- | :---: |
-| **Arrays** | `10` | `26` | `██████░░░░░░░░░` 38.5% | [View](#arrays) |
-| **Strings** | `10` | `22` | `███████░░░░░░░░` 45.5% | [View](#strings) |
-| **2D Arrays** | `3` | `10` | `████░░░░░░░░░░░` 30.0% | [View](#2d-arrays) |
-| **Searching & Sorting** | `1` | `23` | `█░░░░░░░░░░░░░░` 4.3% | [View](#searching-sorting) |
+| **Arrays** | `6` | `26` | `███░░░░░░░░░░░░` 23.1% | [View](#arrays) |
+| **Strings** | `2` | `22` | `█░░░░░░░░░░░░░░` 9.1% | [View](#strings) |
+| **2D Arrays** | `1` | `10` | `██░░░░░░░░░░░░░` 10.0% | [View](#2d-arrays) |
+| **Searching & Sorting** | `0` | `23` | `░░░░░░░░░░░░░░░` 0.0% | [View](#searching-sorting) |
 | **Backtracking** | `0` | `21` | `░░░░░░░░░░░░░░░` 0.0% | [View](#backtracking) |
 | **Linked List** | `7` | `26` | `████░░░░░░░░░░░` 26.9% | [View](#linked-list) |
 | **Stacks & Queues** | `0` | `27` | `░░░░░░░░░░░░░░░` 0.0% | [View](#stacks-queues) |
 | **Greedy** | `0` | `22` | `░░░░░░░░░░░░░░░` 0.0% | [View](#greedy) |
 | **Binary Trees** | `0` | `33` | `░░░░░░░░░░░░░░░` 0.0% | [View](#binary-trees) |
 | **Binary Search Trees** | `0` | `21` | `░░░░░░░░░░░░░░░` 0.0% | [View](#binary-search-trees) |
-| **Heaps & Hashing** | `2` | `28` | `█░░░░░░░░░░░░░░` 7.1% | [View](#heaps-hashing) |
+| **Heaps & Hashing** | `0` | `28` | `░░░░░░░░░░░░░░░` 0.0% | [View](#heaps-hashing) |
 | **Graphs** | `0` | `40` | `░░░░░░░░░░░░░░░` 0.0% | [View](#graphs) |
 | **Tries** | `0` | `6` | `░░░░░░░░░░░░░░░` 0.0% | [View](#tries) |
-| **Dynamic Programming** | `1` | `54` | `░░░░░░░░░░░░░░░` 1.9% | [View](#dynamic-programming) |
+| **Dynamic Programming** | `0` | `54` | `░░░░░░░░░░░░░░░` 0.0% | [View](#dynamic-programming) |
 | **Bit Manipulation** | `0` | `10` | `░░░░░░░░░░░░░░░` 0.0% | [View](#bit-manipulation) |
 | **Segment Trees** | `0` | `6` | `░░░░░░░░░░░░░░░` 0.0% | [View](#segment-trees) |
 
 ---
 
-### Arrays (10/26)
+## 🌟 Outside Sheet Problems (Extra Questions)
+
+> Additional `10` problems solved on LeetCode / GFG outside the Apna College sheet.
+
+| # | Problem | Platform | Difficulty | Solution |
+| :---: | :--- | :---: | :---: | :---: |
+| 1 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/12-integer-to-roman/integer-to-roman.java) |
+| 2 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/1567-maximum-number-of-vowels-in-a-substring-of-given-length/maximum-number-of-vowels-in-a-substring-of-given-length.java) |
+| 3 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java) |
+| 4 | [Remove Element](https://leetcode.com/problems/remove-element/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/27-remove-element/remove-element.java) |
+| 5 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/35-search-insert-position/search-insert-position.java) |
+| 6 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/58-length-of-last-word/length-of-last-word.java) |
+| 7 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/643-maximum-average-subarray-i/maximum-average-subarray-i.java) |
+| 8 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/838-design-linked-list/design-linked-list.java) |
+| 9 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/908-middle-of-the-linked-list/middle-of-the-linked-list.java) |
+| 10 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/917-boats-to-save-people/boats-to-save-people.java) |
+
+---
+
+### Arrays (6/26)
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
-| ✅ | 1 | [Maximum and Minimum Element in an Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) | ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe | - | [GFG](Geeks%20For%20Geeks/Min%20and%20Max%20in%20Array) |
-| ✅ | 2 | [Reverse the Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) | Infosys Moonfrog Labs | - | [GFG](Geeks%20For%20Geeks/Reverse%20Array) |
-| ✅ | 3 | [Maximum-Subarray](https://leetcode.com/problems/maximum-subarray/) | Microsoft + Facebook Interview Qs | use Kadane's Algorithm | [LeetCode](leetcode/53-maximum-subarray) |
+| ⬜ | 1 | [Maximum and Minimum Element in an Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) | ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe | - | - |
+| ✅ | 2 | [Reverse the Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) | Infosys Moonfrog Labs | - | [GFG](Geeks%20For%20Geeks/Reverse%20Array/solution.java) |
+| ⬜ | 3 | [Maximum-Subarray](https://leetcode.com/problems/maximum-subarray/) | Microsoft + Facebook Interview Qs | use Kadane's Algorithm | - |
 | ⬜ | 4 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Amazon Interview Qs | - | - |
-| ✅ | 5 | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/chocolate-distribution-problem/) | Amazon Interview Qs | - | [GFG](Geeks%20For%20Geeks/Chocolate%20Distribution%20Problem) |
-| ✅ | 6 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Microsoft Google Adobe Amazon D-E-Shaw Flipkart Hike Intuit MakeMyTrip Paytm | - | [LeetCode](leetcode/33-search-in-rotated-sorted-array) |
-| ✅ | 7 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Uber + Goldman Sachs + Adobe Interview Qs | - | [LeetCode](leetcode/31-next-permutation) |
-| ✅ | 8 | [Best time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Amazon D-E-Shaw Directi Flipkart Goldman Sachs Intuit MakeMyTrip Microsoft Ola Cabs Oracle Paytm Pubmatic Quikr Salesforce Sapient Swiggy Walmart Media.net Google | - | [LeetCode](leetcode/121-best-time-to-buy-and-sell-stock) |
+| ⬜ | 5 | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/chocolate-distribution-problem/) | Amazon Interview Qs | - | - |
+| ⬜ | 6 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Microsoft Google Adobe Amazon D-E-Shaw Flipkart Hike Intuit MakeMyTrip Paytm | - | - |
+| ⬜ | 7 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Uber + Goldman Sachs + Adobe Interview Qs | - | - |
+| ✅ | 8 | [Best time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Amazon D-E-Shaw Directi Flipkart Goldman Sachs Intuit MakeMyTrip Microsoft Ola Cabs Oracle Paytm Pubmatic Quikr Salesforce Sapient Swiggy Walmart Media.net Google | - | [LeetCode](Leetcode/121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.java) |
 | ⬜ | 9 | [Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | Amazon Interview Qs | - | - |
-| ✅ | 10 | [Kth-Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Amazon Microsoft Walmart Adobe | - | [LeetCode](leetcode/215-kth-largest-element-in-an-array) |
+| ⬜ | 10 | [Kth-Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Amazon Microsoft Walmart Adobe | - | - |
 | ⬜ | 11 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Samsung Interview Qs | - | - |
-| ⬜ | 12 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Microsoft + Facebook Interview Qs | - | - |
-| ✅ | 13 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Amazon D-E-Shaw Microsoft Morgan Stanley OYO Rooms Google | - | [LeetCode](leetcode/152-maximum-product-subarray) |
-| ⬜ | 14 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Adobe Amazon Microsoft Morgan Stanley Samsung Snapdeal Times Internet | - | - |
+| ✅ | 12 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Microsoft + Facebook Interview Qs | - | [LeetCode](Leetcode/238-product-of-array-except-self/product-of-array-except-self.java) |
+| ⬜ | 13 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Amazon D-E-Shaw Microsoft Morgan Stanley OYO Rooms Google | - | - |
+| ✅ | 14 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Adobe Amazon Microsoft Morgan Stanley Samsung Snapdeal Times Internet | - | [LeetCode](Leetcode/153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.java) |
 | ⬜ | 15 | [Find Pair with Sum in Sorted & Rotated Array](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/?ref=lbp) | Microsoft + Google + Apple Interview Qs | - | - |
-| ⬜ | 16 | [3Sum](https://leetcode.com/problems/3sum/) | Adobe Amazon Microsoft Morgan Stanley Samsung Snapdeal Times Internet | - | - |
+| ✅ | 16 | [3Sum](https://leetcode.com/problems/3sum/) | Adobe Amazon Microsoft Morgan Stanley Samsung Snapdeal Times Internet | - | [LeetCode](Leetcode/15-3sum/3sum.java) |
 | ⬜ | 17 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Flipkart + Dunzo Interview Qs | - | - |
-| ✅ | 18 | [Given Sum Pair](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/) | Infosys + Amazon + Flipkart Interview Qs | - | [LeetCode](leetcode/1-two-sum) |
+| ✅ | 18 | [Given Sum Pair](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/) | Infosys + Amazon + Flipkart Interview Qs | - | [LeetCode](Leetcode/1-two-sum/two-sum.java) |
 | ⬜ | 19 | [Kth - Smallest Element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe | - | - |
 | ⬜ | 20 | [Merge Overlapping Intervals](https://www.geeksforgeeks.org/merging-intervals/) | Google Interview Qs | - | - |
 | ⬜ | 21 | [Find Minimum Number of Merge Operations to Make an Array Palindrome](https://www.geeksforgeeks.org/find-minimum-number-of-merge-operations-to-make-an-array-palindrome/) | Amazon | - | - |
@@ -73,23 +92,23 @@
 
 ---
 
-### Strings (10/22)
+### Strings (2/22)
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
-| ✅ | 27 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Amazon Cisco D-E-Shaw Facebook FactSet Morgan Stanley Paytm Zoho | - | [LeetCode](leetcode/125-valid-palindrome) |
-| ✅ | 28 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Nagarro Media.net Directi Google Adobe Flipkart | - | [LeetCode](leetcode/242-valid-anagram) |
-| ✅ | 29 | [Valid parentheses](https://leetcode.com/problems/valid-parentheses/) | Google Interview Qs | use Stacks (if possible) | [LeetCode](leetcode/20-valid-parentheses) |
+| ⬜ | 27 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Amazon Cisco D-E-Shaw Facebook FactSet Morgan Stanley Paytm Zoho | - | - |
+| ✅ | 28 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Nagarro Media.net Directi Google Adobe Flipkart | - | [LeetCode](Leetcode/242-valid-anagram/valid-anagram.cpp) |
+| ⬜ | 29 | [Valid parentheses](https://leetcode.com/problems/valid-parentheses/) | Google Interview Qs | use Stacks (if possible) | - |
 | ⬜ | 30 | [Remove Consecutive Characters](https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1) | Samsung + Adobe | - | - |
-| ✅ | 31 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Adobe + Grofers + Dunzo Interview Qs | - | [LeetCode](leetcode/14-longest-common-prefix) |
+| ⬜ | 31 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Adobe + Grofers + Dunzo Interview Qs | - | - |
 | ⬜ | 32 | [Convert a Sentence into its Equivalent Mobile Numeric Keypad Sequence](https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/) | Adobe | - | - |
 | ⬜ | 33 | [Print all the Duplicates in the Input String](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) | Ola + Amdocs IQ | - | - |
-| ✅ | 34 | [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Morgan Stanley + Amazon IQ | - | [LeetCode](leetcode/3-longest-substring-without-repeating-characters) |
-| ✅ | 35 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Amazon Google | - | [LeetCode](leetcode/424-longest-repeating-character-replacement) |
-| ✅ | 36 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Samsung + Adobe + Amazon Interview Qs | - | [LeetCode](leetcode/49-group-anagrams) |
-| ✅ | 37 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Microsoft + Google + Samsung + Visa IQ | - | [LeetCode](leetcode/5-longest-palindromic-substring) |
-| ✅ | 38 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Microsoft IQ | - | [LeetCode](leetcode/647-palindromic-substrings) |
-| ✅ | 39 | [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1) | Adobe + Goldman Sachs + Uber | - | [LeetCode](leetcode/31-next-permutation) |
+| ✅ | 34 | [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Morgan Stanley + Amazon IQ | - | [LeetCode](Leetcode/3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java) |
+| ⬜ | 35 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Amazon Google | - | - |
+| ⬜ | 36 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Samsung + Adobe + Amazon Interview Qs | - | - |
+| ⬜ | 37 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Microsoft + Google + Samsung + Visa IQ | - | - |
+| ⬜ | 38 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Microsoft IQ | - | - |
+| ⬜ | 39 | [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1) | Adobe + Goldman Sachs + Uber | - | - |
 | ⬜ | 40 | [Count Palindromic Subsequences](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1) | Myntra Interview Qs | - | - |
 | ⬜ | 41 | [Smallest Window in a String Containing all the Characters of Another String](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1) | Microsoft + Amazon IQ | - | - |
 | ⬜ | 42 | [Wildcard String Matching](https://practice.geeksforgeeks.org/problems/wildcard-string-matching1126/1) | Microsoft + Amazon + Ola IQ | - | - |
@@ -104,13 +123,13 @@
 
 ---
 
-### 2D Arrays (3/10)
+### 2D Arrays (1/10)
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
-| ✅ | 49 | [Zigzag (or diagonal) Traversal of Matrix](https://www.geeksforgeeks.org/zigzag-or-diagonal-traversal-of-matrix/) | Amazon | - | [LeetCode](leetcode/498-diagonal-traverse) |
-| ✅ | 50 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Amazon Microsoft | - | [LeetCode](leetcode/73-set-matrix-zeroes) |
-| ✅ | 51 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Flipkart + Apple + Societe Generale IQ | - | [LeetCode](leetcode/54-spiral-matrix) |
+| ⬜ | 49 | [Zigzag (or diagonal) Traversal of Matrix](https://www.geeksforgeeks.org/zigzag-or-diagonal-traversal-of-matrix/) | Amazon | - | - |
+| ⬜ | 50 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Amazon Microsoft | - | - |
+| ✅ | 51 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Flipkart + Apple + Societe Generale IQ | - | [LeetCode](Leetcode/54-spiral-matrix/spiral-matrix.java) |
 | ⬜ | 52 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Microsoft Paytm Samsung Adobe | - | - |
 | ⬜ | 53 | [Word Search](https://leetcode.com/problems/word-search/) | Google + Ola + Goldman Sachs IQ | - | - |
 | ⬜ | 54 | [Find the Number of Islands | Set 1 (Using DFS)](https://www.geeksforgeeks.org/find-number-of-islands/) | Microsoft + Uber + Apple + Amazon IQ | Read about DFS | - |
@@ -123,7 +142,7 @@
 
 ---
 
-### Searching & Sorting (1/23)
+### Searching & Sorting (0/23)
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -144,7 +163,7 @@
 | ⬜ | 73 | [Make all Array Elements Equal](https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/) | Amazon | - | - |
 | ⬜ | 74 | [Check if Reversing a Sub Array Make the Array Sorted](https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/) | Amazon | - | - |
 | ⬜ | 75 | [Find Four Elements that Sum to a Given Value](https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value-set-2/) | Adobe Amazon Google Microsoft OYO Rooms | - | - |
-| ✅ | 76 | [Median of Two Sorted Array with Different Size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/) | Amazon Samsung Microsoft Google | - | [LeetCode](leetcode/4-median-of-two-sorted-arrays) |
+| ⬜ | 76 | [Median of Two Sorted Array with Different Size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/) | Amazon Samsung Microsoft Google | - | - |
 | ⬜ | 77 | [Median of Stream of Integers Running Integers](https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/) | Amazon + Google | - | - |
 | ⬜ | 78 | [Print Subarrays with 0 Sum](https://www.geeksforgeeks.org/print-all-subarrays-with-0-sum/) | Paytm Adobe | - | - |
 | ⬜ | 79 | [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/) | Adobe | - | - |
@@ -189,16 +208,16 @@
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
-| ✅ | 103 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Sprinklr | - | [LeetCode](leetcode/206-reverse-linked-list) |
-| ✅ | 104 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Accolite Amazon D-E-Shaw Hike Lybrate Mahindra Comviva MakeMyTrip MAQ Software OYO Rooms Paytm Qualcomm Samsung SAP Labs Snapdeal Veritas VMWare Walmart Adobe | - | [LeetCode](leetcode/141-linked-list-cycle) |
-| ⬜ | 105 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Accolite Amazon Belzabar Brocade FactSet Flipkart MakeMyTrip Microsoft OATS Systems Oracle Samsung Synopsys Zoho | - | - |
-| ✅ | 106 | [Delete without Head node](https://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/) | Amazon Goldman Sachs Kritikal Solutions Microsoft Samsung Visa | - | [LeetCode](leetcode/237-delete-node-in-a-linked-list) \| [GFG](Geeks%20For%20Geeks/Delete%20Node%20Without%20Linked%20List%20Head) |
-| ✅ | 107 | [Remove duplicates from an unsorted linked list](https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/) | Amazon Intuit | - | [GFG](Geeks%20For%20Geeks/Remove%20Duplicates%20from%20Linked%20List) |
+| ✅ | 103 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Sprinklr | - | [LeetCode](Leetcode/206-reverse-linked-list/reverse-linked-list.java) |
+| ✅ | 104 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Accolite Amazon D-E-Shaw Hike Lybrate Mahindra Comviva MakeMyTrip MAQ Software OYO Rooms Paytm Qualcomm Samsung SAP Labs Snapdeal Veritas VMWare Walmart Adobe | - | [LeetCode](Leetcode/141-linked-list-cycle/linked-list-cycle.java) |
+| ✅ | 105 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Accolite Amazon Belzabar Brocade FactSet Flipkart MakeMyTrip Microsoft OATS Systems Oracle Samsung Synopsys Zoho | - | [LeetCode](Leetcode/21-merge-two-sorted-lists/merge-two-sorted-lists.java) |
+| ✅ | 106 | [Delete without Head node](https://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/) | Amazon Goldman Sachs Kritikal Solutions Microsoft Samsung Visa | - | [LeetCode](Leetcode/237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.java) |
+| ⬜ | 107 | [Remove duplicates from an unsorted linked list](https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/) | Amazon Intuit | - | - |
 | ⬜ | 108 | [Sort a linked list of 0s-1s-or-2s](https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/) | Microsoft Amazon MakeMyTrip | - | - |
 | ⬜ | 109 | [Multiply two numbers represented linked lists](https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/) | Amazon | - | - |
-| ✅ | 110 | [Remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Accolite Adobe Amazon Citicorp Epic Systems FactSet Hike MAQ Software Monotype Solutions Morgan Stanley OYO Rooms Qualcomm Samsung Snapdeal Flipkart | - | [LeetCode](leetcode/19-remove-nth-node-from-end-of-list) |
-| ⬜ | 111 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Amazon Microsoft OYO Rooms Intuit | - | - |
-| ✅ | 112 | [Detect and remove loop in a linked list](https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/) | Accolite Amazon D-E-Shaw Hike Lybrate Mahindra Comviva MakeMyTrip MAQ Software OYO Rooms Paytm Qualcomm Samsung SAP Labs Snapdeal Veritas VMWare Walmart Adobe | - | [LeetCode](leetcode/142-linked-list-cycle-ii) |
+| ✅ | 110 | [Remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Accolite Adobe Amazon Citicorp Epic Systems FactSet Hike MAQ Software Monotype Solutions Morgan Stanley OYO Rooms Qualcomm Samsung Snapdeal Flipkart | - | [LeetCode](Leetcode/19-remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.java) |
+| ✅ | 111 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Amazon Microsoft OYO Rooms Intuit | - | [LeetCode](Leetcode/143-reorder-list/reorder-list.java) |
+| ⬜ | 112 | [Detect and remove loop in a linked list](https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/) | Accolite Amazon D-E-Shaw Hike Lybrate Mahindra Comviva MakeMyTrip MAQ Software OYO Rooms Paytm Qualcomm Samsung SAP Labs Snapdeal Veritas VMWare Walmart Adobe | - | - |
 | ⬜ | 113 | [Write a Function to get the Intersection Point of two Linked Lists](https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/) | Amazon | - | - |
 | ⬜ | 114 | [Flatten a linked list with next and child pointers](https://www.geeksforgeeks.org/flatten-a-linked-list-with-next-and-child-pointers/) | Google | - | - |
 | ⬜ | 115 | [Linked list in zig-zag fashion](https://www.geeksforgeeks.org/linked-list-in-zig-zag-fashion/) | Micorsoft | - | - |
@@ -211,7 +230,7 @@
 | ⬜ | 122 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Microsoft+ Ola+ eBay | - | - |
 | ⬜ | 123 | [Merge sort for linked list](https://www.geeksforgeeks.org/merge-sort-for-linked-list/) | Accolite Adobe Amazon MAQ Software Microsoft Paytm Veritas | Important | - |
 | ⬜ | 124 | [Quicksort on singly-linked list](https://www.geeksforgeeks.org/quicksort-on-singly-linked-list/) | Paytm | Important | - |
-| ✅ | 125 | [Sum of two linked lists](https://www.geeksforgeeks.org/sum-of-two-linked-lists/) | Accolite Amazon Flipkart MakeMyTrip Microsoft Morgan Stanley Qualcomm Snapdeal | - | [LeetCode](leetcode/2-add-two-numbers) |
+| ✅ | 125 | [Sum of two linked lists](https://www.geeksforgeeks.org/sum-of-two-linked-lists/) | Accolite Amazon Flipkart MakeMyTrip Microsoft Morgan Stanley Qualcomm Snapdeal | - | [LeetCode](Leetcode/2-add-two-numbers/add-two-numbers.java) |
 | ⬜ | 126 | [Flattening a linked list](https://www.geeksforgeeks.org/flattening-a-linked-list/) | 24*7 Innovation Labs Amazon Drishti-Soft Flipkart Goldman Sachs Microsoft Paytm Payu Qualcomm Snapdeal Visa | - | - |
 | ⬜ | 127 | [Clone a linked list with next and random Pointer](https://www.geeksforgeeks.org/a-linked-list-with-next-and-arbit-pointer/) | Triology | - | - |
 | ⬜ | 128 | [Subtract two numbers represented as linked lists](https://www.geeksforgeeks.org/subtract-two-numbers-represented-as-linked-lists/) | Amazon Goldman Sachs | - | - |
@@ -359,13 +378,13 @@
 
 ---
 
-### Heaps & Hashing (2/28)
+### Heaps & Hashing (0/28)
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
 | ⬜ | 232 | [Choose k array elements such that difference of maximum and minimum is minimized](https://www.geeksforgeeks.org/k-numbers-difference-maximum-minimum-k-number-minimized/) | - | - | - |
 | ⬜ | 233 | [Heap Sort](https://www.geeksforgeeks.org/heap-sort/) | Adobe | - | - |
-| ✅ | 234 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Amazon Microsoft | - | [LeetCode](leetcode/347-top-k-frequent-elements) |
+| ⬜ | 234 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Amazon Microsoft | - | - |
 | ⬜ | 235 | [k largest elements in an array](https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/) | Amazon Microsoft Walmart Adobe | - | - |
 | ⬜ | 236 | [Next Greater Element](https://www.geeksforgeeks.org/next-greater-element/) | Amazon + Microsoft + Flipkart + Adobe | - | - |
 | ⬜ | 237 | [K’th Smallest/Largest Element in Unsorted Array](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/) | ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe | - | - |
@@ -381,7 +400,7 @@
 | ⬜ | 247 | [Group Shifted Strings](https://www.geeksforgeeks.org/group-shifted-string/) | Oracle | - | - |
 | ⬜ | 248 | [Merge K Sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Microsoft + Ola + eBay | - | - |
 | ⬜ | 249 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Adobe Amazon Apple Belzabar D-E-Shaw Facebook Flipkart Google Intuit Microsoft Morgan Stanley Ola Cabs Oracle Samsung SAP Labs Yahoo | - | - |
-| ✅ | 250 | [Sliding Window Maximum](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/) | Amazon Directi Flipkart Microsoft Google | - | [LeetCode](leetcode/239-sliding-window-maximum) |
+| ⬜ | 250 | [Sliding Window Maximum](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/) | Amazon Directi Flipkart Microsoft Google | - | - |
 | ⬜ | 251 | [Find the smallest positive number](https://www.geeksforgeeks.org/find-the-smallest-positive-number-missing-from-an-unsorted-array/) | Accolite Amazon Samsung Snapdeal | - | - |
 | ⬜ | 252 | [Find Surpasser Count of each element in array](https://www.geeksforgeeks.org/find-surpasser-count-of-each-element-in-array/) | Amazon Morgan Stanley Ola Cabs SAP Labs | - | - |
 | ⬜ | 253 | [Tournament Tree and Binary Heap](https://www.geeksforgeeks.org/tournament-tree-and-binary-heap/) | Amazon Ola Cabs Samsung Synopsys Walmart Microsoft | - | - |
@@ -460,7 +479,7 @@
 
 ---
 
-### Dynamic Programming (1/54)
+### Dynamic Programming (0/54)
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -504,7 +523,7 @@
 | ⬜ | 343 | [Partition Equal Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1) | Amazon + Accolite + Traveloca + Adobe | - | - |
 | ⬜ | 344 | [Longest Palindromic Subsequnce](https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/) | Amazon Google | - | - |
 | ⬜ | 345 | [Count Palindromic Subsequences](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1) | Myntra | - | - |
-| ✅ | 346 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Amazon + Microsoft + Samsung + Visa | - | [LeetCode](leetcode/5-longest-palindromic-substring) |
+| ⬜ | 346 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Amazon + Microsoft + Samsung + Visa | - | - |
 | ⬜ | 347 | [Longest Alternating Sequence](https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence5951/1) | Ola | - | - |
 | ⬜ | 348 | [Weighted Job Scheduling](https://www.geeksforgeeks.org/weighted-job-scheduling/) | Intuit | - | - |
 | ⬜ | 349 | [Coin Game](https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/) | Salesforce | - | - |
@@ -556,3 +575,4 @@
 [⬆ Back to Summary](#-topic-summary)
 
 ---
+
