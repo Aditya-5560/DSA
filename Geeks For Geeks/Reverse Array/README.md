@@ -7,7 +7,7 @@
 - Runtime: 1.1 s
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/reverse-an-array/1
-- Synced: 2026-09-07T07:02:44.437Z
+- Synced: 2026-09-07T07:02:54.609Z
 
 ## Problem Description
 
