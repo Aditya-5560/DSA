@@ -1,7 +1,6 @@
 .DS_Store
 Icon*
 .idea/
-scripts/*.log
-scripts/.watcher.pid
 __pycache__/
 *.pyc
+*.log

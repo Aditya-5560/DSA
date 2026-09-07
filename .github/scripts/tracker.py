@@ -6,8 +6,8 @@ import difflib
 from datetime import datetime
 from pathlib import Path
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-DATA_FILE = BASE_DIR / "scripts" / "data" / "apna_college_sheet.json"
+BASE_DIR = Path(__file__).resolve().parent.parent.parent
+DATA_FILE = Path(__file__).resolve().parent / "data" / "apna_college_sheet.json"
 README_FILE = BASE_DIR / "README.md"
 LEETCODE_DIR = BASE_DIR / "Leetcode"
 GFG_DIR = BASE_DIR / "GFG"
