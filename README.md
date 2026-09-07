@@ -560,8 +560,3 @@
 </details>
 
 ---
-### 🔄 Automatic Online Tracking
-
-This tracking sheet is updated automatically via **GitHub Actions**:
-1. **LeetCode & GFG Extensions:** When you submit a solution on LeetCode or GeeksforGeeks, your browser extension auto-commits the solution to `Leetcode/` or `GFG/` in this repository.
-2. **Cloud Automation:** GitHub Actions (`.github/workflows/update-tracker.yml`) automatically triggers on push, evaluates solved problems against the Apna College Sheet, and commits the updated `README.md` directly on GitHub.
