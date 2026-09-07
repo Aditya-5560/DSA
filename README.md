@@ -3,28 +3,28 @@
 > Automated progress tracking sheet for **Apna College (Shradha Didi & Aman Bhaiya) 375+ DSA Sheet** and extra DSA problem solutions synced from **LeetCode** and **GeeksforGeeks**.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apna_College_Sheet-18%20%2F%20373%20(4.8%25)-blue?style=for-the-badge&logo=target" alt="Sheet Progress" />
+  <img src="https://img.shields.io/badge/Apna_College_Sheet-15%20%2F%20373%20(4.0%25)-blue?style=for-the-badge&logo=target" alt="Sheet Progress" />
   <img src="https://img.shields.io/badge/Extra_Questions-10%20Solved-9cf?style=for-the-badge&logo=star" alt="Extra Solved" />
-  <img src="https://img.shields.io/badge/Total_Solved-28%20Problems-orange?style=for-the-badge&logo=codeforces" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Total_Solved-25%20Problems-orange?style=for-the-badge&logo=codeforces" alt="Total Solved" />
 </p>
 
 ## 📊 Overall Progress
 
-**Apna College Sheet Progress:** `[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]` 4.8%
+**Apna College Sheet Progress:** `[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]` 4.0%
 
-- **Sheet Questions Solved:** `18 / 373` (4.8%)
+- **Sheet Questions Solved:** `15 / 373` (4.0%)
 - **Extra Questions Solved:** `10`
-- **Total Combined DSA Problems Solved:** `28`
-- **Last Updated:** `2026-09-07 11:48:15`
+- **Total Combined DSA Problems Solved:** `25`
+- **Last Updated:** `2026-09-07 11:51:09`
 
 ## 📑 Category-wise Breakdown
 
 | Category | Progress | Solved / Total | Percentage | Status |
 | :--- | :--- | :---: | :---: | :---: |
-| [Arrays](#arrays) | `[███░░░░░░░░░]` 23.1% | `6 / 26` | `23.1%` | ⚡ In Progress |
+| [Arrays](#arrays) | `[██░░░░░░░░░░]` 19.2% | `5 / 26` | `19.2%` | ⚡ In Progress |
 | [Strings](#strings) | `[█░░░░░░░░░░░]` 9.1% | `2 / 22` | `9.1%` | ⚡ In Progress |
 | [2D Arrays](#2d-arrays) | `[█░░░░░░░░░░░]` 10.0% | `1 / 10` | `10.0%` | ⚡ In Progress |
-| [Searching & Sorting](#searching-sorting) | `[█░░░░░░░░░░░]` 8.7% | `2 / 23` | `8.7%` | ⚡ In Progress |
+| [Searching & Sorting](#searching-sorting) | `[░░░░░░░░░░░░]` 0.0% | `0 / 23` | `0.0%` | ⏳ Not Started |
 | [Backtracking](#backtracking) | `[░░░░░░░░░░░░]` 0.0% | `0 / 21` | `0.0%` | ⏳ Not Started |
 | [Linked List](#linked-list) | `[███░░░░░░░░░]` 26.9% | `7 / 26` | `26.9%` | ⚡ In Progress |
 | [Stacks & Queues](#stacks-queues) | `[░░░░░░░░░░░░]` 0.0% | `0 / 26` | `0.0%` | ⏳ Not Started |
@@ -37,7 +37,7 @@
 | [Dynamic Programming](#dynamic-programming) | `[░░░░░░░░░░░░]` 0.0% | `0 / 53` | `0.0%` | ⏳ Not Started |
 | [Bit Manipulation](#bit-manipulation) | `[░░░░░░░░░░░░]` 0.0% | `0 / 10` | `0.0%` | ⏳ Not Started |
 | [Segment Trees](#segment-trees) | `[░░░░░░░░░░░░]` 0.0% | `0 / 6` | `0.0%` | ⏳ Not Started |
-| **Overall Total** | `[█░░░░░░░░░░░]` 4.8% | **`18 / 373`** | **`4.8%`** | **18 / 373** |
+| **Overall Total** | `[░░░░░░░░░░░░]` 4.0% | **`15 / 373`** | **`4.0%`** | **15 / 373** |
 
 ## ⭐ Extra Questions Solved (Outside Apna College Sheet)
 
@@ -59,12 +59,12 @@
 ## 📚 Apna College Sheet Details
 
 <details open>
-<summary><h3 style="display:inline" id="arrays">📂 Arrays &nbsp;—&nbsp; 6/26 Solved (23.1%)</h3></summary>
+<summary><h3 style="display:inline" id="arrays">📂 Arrays &nbsp;—&nbsp; 5/26 Solved (19.2%)</h3></summary>
 
 | # | Status | Problem Title | Platform | Solution | Companies / Remarks |
 | :---: | :---: | :--- | :---: | :---: | :--- |
 | 1 | ⬜ *Unsolved* | [Maximum and Minimum Element in an Array](https://www.google.com/search?q=Maximum+and+Minimum+Element+in+an+Array+LeetCode+GeeksforGeeks) | - | - | **Companies:** ABCO, Accolite, Amazon, Cisco, Hike, Microsoft, Snapdeal, VMWare, Google, Adobe |
-| 2 | ✅ **Solved** | [Reverse the Array](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | `GeeksforGeeks` | [2_reverse_an_array.txt](GFG/2_reverse_an_array.txt)<br>[solution.txt](GFG/3_reverse_an_array/solution.txt) | **Companies:** Infosys, Moonfrog Labs |
+| 2 | ⬜ *Unsolved* | [Reverse the Array](https://www.google.com/search?q=Reverse+the+Array+LeetCode+GeeksforGeeks) | - | - | **Companies:** Infosys, Moonfrog Labs |
 | 3 | ⬜ *Unsolved* | [Maximum-Subarray](https://www.google.com/search?q=Maximum-Subarray+LeetCode+GeeksforGeeks) | - | - | **Companies:** Microsoft, Facebook Interview Qs<br>💡 *use Kadane's Algorithm* |
 | 4 | ⬜ *Unsolved* | [Contains Duplicate](https://www.google.com/search?q=Contains+Duplicate+LeetCode+GeeksforGeeks) | - | - | **Companies:** Amazon Interview Qs |
 | 5 | ⬜ *Unsolved* | [Chocolate Distribution Problem](https://www.google.com/search?q=Chocolate+Distribution+Problem+LeetCode+GeeksforGeeks) | - | - | **Companies:** Amazon Interview Qs |
@@ -140,16 +140,16 @@
 
 </details>
 
-<details open>
-<summary><h3 style="display:inline" id="searching-sorting">📂 Searching & Sorting &nbsp;—&nbsp; 2/23 Solved (8.7%)</h3></summary>
+<details>
+<summary><h3 style="display:inline" id="searching-sorting">📂 Searching & Sorting &nbsp;—&nbsp; 0/23 Solved (0.0%)</h3></summary>
 
 | # | Status | Problem Title | Platform | Solution | Companies / Remarks |
 | :---: | :---: | :--- | :---: | :---: | :--- |
-| 1 | ✅ **Solved** | [Permute Two Arrays such that Sum of Every Pair is Greater or Equal to K](https://www.geeksforgeeks.org/problems/permutations-in-array1747/1) | `GeeksforGeeks` | [solution.txt](GFG/Permute Arrays for Sum Threshold/solution.txt) | **Companies:** Samsung |
+| 1 | ⬜ *Unsolved* | [Permute Two Arrays such that Sum of Every Pair is Greater or Equal to K](https://www.google.com/search?q=Permute+Two+Arrays+such+that+Sum+of+Every+Pair+is+Greater+or+Equal+to+K+LeetCode+GeeksforGeeks) | - | - | **Companies:** Samsung |
 | 2 | ⬜ *Unsolved* | [counting sort](https://www.google.com/search?q=counting+sort+LeetCode+GeeksforGeeks) | - | - | **Companies:** Samsung, Morgan Stanley, Snapdeal, EPAM Systems |
 | 3 | ⬜ *Unsolved* | [find common elements three sorted arrays](https://www.google.com/search?q=find+common+elements+three+sorted+arrays+LeetCode+GeeksforGeeks) | - | - | **Companies:** MAQ Software, Microsoft, VMWare |
 | 4 | ⬜ *Unsolved* | [Searching in an array where adjacent differ by at most k](https://www.google.com/search?q=Searching+in+an+array+where+adjacent+differ+by+at+most+k+LeetCode+GeeksforGeeks) | - | - | **Companies:** TCS, Amazon |
-| 5 | ✅ **Solved** | [ceiling in a sorted array](https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1) | `GeeksforGeeks` | [1_ceil_in_a_sorted_array.txt](GFG/1_ceil_in_a_sorted_array.txt) | **Companies:** TCS |
+| 5 | ⬜ *Unsolved* | [ceiling in a sorted array](https://www.google.com/search?q=ceiling+in+a+sorted+array+LeetCode+GeeksforGeeks) | - | - | **Companies:** TCS |
 | 6 | ⬜ *Unsolved* | [Piar with given difference](https://www.google.com/search?q=Piar+with+given+difference+LeetCode+GeeksforGeeks) | - | - | **Companies:** Amazon, Visa |
 | 7 | ⬜ *Unsolved* | [majority element](https://www.google.com/search?q=majority+element+LeetCode+GeeksforGeeks) | - | - | **Companies:** Amazon, Google |
 | 8 | ⬜ *Unsolved* | [count triplets with sum smaller that a given value](https://www.google.com/search?q=count+triplets+with+sum+smaller+that+a+given+value+LeetCode+GeeksforGeeks) | - | - | **Companies:** Amazon, SAP Labs |
@@ -206,9 +206,9 @@
 | # | Status | Problem Title | Platform | Solution | Companies / Remarks |
 | :---: | :---: | :--- | :---: | :---: | :--- |
 | 1 | ✅ **Solved** | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | `LeetCode` | [reverse-linked-list.java](Leetcode/206-reverse-linked-list/reverse-linked-list.java) | **Companies:** Sprinklr |
-| 2 | ✅ **Solved** | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | `LeetCode` | [linked-list-cycle.java](Leetcode/141-linked-list-cycle/linked-list-cycle.java)<br>[solution.java](GFG/0/solution.java) | **Companies:** Accolite, Amazon, D-E-Shaw, Hike, Lybrate, Mahindra Comviva, MakeMyTrip, MAQ Software, OYO Rooms, Paytm, Qualcomm, Samsung, SAP Labs, Snapdeal, Veritas, VMWare, Walmart, Adobe |
+| 2 | ✅ **Solved** | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | `LeetCode` | [linked-list-cycle.java](Leetcode/141-linked-list-cycle/linked-list-cycle.java) | **Companies:** Accolite, Amazon, D-E-Shaw, Hike, Lybrate, Mahindra Comviva, MakeMyTrip, MAQ Software, OYO Rooms, Paytm, Qualcomm, Samsung, SAP Labs, Snapdeal, Veritas, VMWare, Walmart, Adobe |
 | 3 | ✅ **Solved** | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | `LeetCode` | [merge-two-sorted-lists.java](Leetcode/21-merge-two-sorted-lists/merge-two-sorted-lists.java) | **Companies:** Accolite, Amazon, Belzabar, Brocade, FactSet, Flipkart, MakeMyTrip, Microsoft, OATS Systems, Oracle, Samsung, Synopsys, Zoho |
-| 4 | ✅ **Solved** | [Delete without Head node](https://leetcode.com/problems/delete-node-in-a-linked-list) | `GeeksforGeeks` / `LeetCode` | [delete-node-in-a-linked-list.java](Leetcode/237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.java)<br>[solution.txt](GFG/Delete Node Without Linked List Head/solution.txt) | **Companies:** Amazon, Goldman Sachs, Kritikal Solutions, Microsoft, Samsung, Visa |
+| 4 | ✅ **Solved** | [Delete without Head node](https://leetcode.com/problems/delete-node-in-a-linked-list) | `LeetCode` | [delete-node-in-a-linked-list.java](Leetcode/237-delete-node-in-a-linked-list/delete-node-in-a-linked-list.java) | **Companies:** Amazon, Goldman Sachs, Kritikal Solutions, Microsoft, Samsung, Visa |
 | 5 | ⬜ *Unsolved* | [Remove duplicates from an unsorted linked list](https://www.google.com/search?q=Remove+duplicates+from+an+unsorted+linked+list+LeetCode+GeeksforGeeks) | - | - | **Companies:** Amazon, Intuit |
 | 6 | ⬜ *Unsolved* | [Sort a linked list of 0s-1s-or-2s](https://www.google.com/search?q=Sort+a+linked+list+of+0s-1s-or-2s+LeetCode+GeeksforGeeks) | - | - | **Companies:** Microsoft, Amazon, MakeMyTrip |
 | 7 | ⬜ *Unsolved* | [Multiply two numbers represented linked lists](https://www.google.com/search?q=Multiply+two+numbers+represented+linked+lists+LeetCode+GeeksforGeeks) | - | - | **Companies:** Amazon |
