@@ -38,7 +38,8 @@
 
 ---
 
-## 🌟 Outside Sheet Problems (Extra Questions)
+<details>
+<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (10 Extra Solved)</h2></summary>
 
 > Additional `10` problems solved on LeetCode / GFG outside the Apna College sheet.
 
@@ -55,9 +56,14 @@
 | 9 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/908-middle-of-the-linked-list/middle-of-the-linked-list.java) |
 | 10 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/917-boats-to-save-people/boats-to-save-people.java) |
 
+</details>
+
 ---
 
-### Arrays (6/26)
+## 📚 Apna College Sheet Questions by Topic
+
+<details>
+<summary><h3 style="display:inline" id="arrays">📂 Arrays &nbsp;—&nbsp; 6/26 Solved (23.1%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -90,9 +96,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Strings (2/22)
+<details>
+<summary><h3 style="display:inline" id="strings">📂 Strings &nbsp;—&nbsp; 2/22 Solved (9.1%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -121,9 +128,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### 2D Arrays (1/10)
+<details>
+<summary><h3 style="display:inline" id="2d-arrays">📂 2D Arrays &nbsp;—&nbsp; 1/10 Solved (10.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -140,9 +148,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Searching & Sorting (0/23)
+<details>
+<summary><h3 style="display:inline" id="searching-sorting">📂 Searching & Sorting &nbsp;—&nbsp; 0/23 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -172,9 +181,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Backtracking (0/21)
+<details>
+<summary><h3 style="display:inline" id="backtracking">📂 Backtracking &nbsp;—&nbsp; 0/21 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -202,9 +212,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Linked List (7/26)
+<details>
+<summary><h3 style="display:inline" id="linked-list">📂 Linked List &nbsp;—&nbsp; 7/26 Solved (26.9%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -237,9 +248,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Stacks & Queues (0/27)
+<details>
+<summary><h3 style="display:inline" id="stacks-queues">📂 Stacks & Queues &nbsp;—&nbsp; 0/27 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -273,9 +285,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Greedy (0/22)
+<details>
+<summary><h3 style="display:inline" id="greedy">📂 Greedy &nbsp;—&nbsp; 0/22 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -304,9 +317,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Binary Trees (0/33)
+<details>
+<summary><h3 style="display:inline" id="binary-trees">📂 Binary Trees &nbsp;—&nbsp; 0/33 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -346,9 +360,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Binary Search Trees (0/21)
+<details>
+<summary><h3 style="display:inline" id="binary-search-trees">📂 Binary Search Trees &nbsp;—&nbsp; 0/21 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -376,9 +391,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Heaps & Hashing (0/28)
+<details>
+<summary><h3 style="display:inline" id="heaps-hashing">📂 Heaps & Hashing &nbsp;—&nbsp; 0/28 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -413,9 +429,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Graphs (0/40)
+<details>
+<summary><h3 style="display:inline" id="graphs">📂 Graphs &nbsp;—&nbsp; 0/40 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -462,9 +479,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Tries (0/6)
+<details>
+<summary><h3 style="display:inline" id="tries">📂 Tries &nbsp;—&nbsp; 0/6 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -477,9 +495,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Dynamic Programming (0/54)
+<details>
+<summary><h3 style="display:inline" id="dynamic-programming">📂 Dynamic Programming &nbsp;—&nbsp; 0/54 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -540,9 +559,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Bit Manipulation (0/10)
+<details>
+<summary><h3 style="display:inline" id="bit-manipulation">📂 Bit Manipulation &nbsp;—&nbsp; 0/10 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -559,9 +579,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Segment Trees (0/6)
+<details>
+<summary><h3 style="display:inline" id="segment-trees">📂 Segment Trees &nbsp;—&nbsp; 0/6 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -574,5 +595,5 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 

@@ -299,29 +299,30 @@ def main():
     lines.append("---")
     lines.append("")
 
-    # Outside Sheet Problems Table
-    lines.append("## 🌟 Outside Sheet Problems (Extra Questions)")
-    lines.append("")
-    lines.append(f"> Additional `{len(extra_solved)}` problems solved on LeetCode / GFG outside the Apna College sheet.")
-    lines.append("")
+    # Outside Sheet Problems Table (Collapsible)
+    lines.append("<details>")
+    lines.append(f"<summary><h2 style=\"display:inline\" id=\"outside-sheet-problems\">🌟 Outside Sheet Problems ({len(extra_solved)} Extra Solved)</h2></summary>\n")
+    lines.append(f"> Additional `{len(extra_solved)}` problems solved on LeetCode / GFG outside the Apna College sheet.\n")
     lines.append("| # | Problem | Platform | Difficulty | Solution |")
     lines.append("| :---: | :--- | :---: | :---: | :---: |")
     for idx, s in enumerate(extra_solved, 1):
         sol_link = f"[{s['source']}]({encode_path(s['sol_file'])})"
         prob_link = f"[{s['title']}]({s['url']})" if s.get("url") else s["title"]
         lines.append(f"| {idx} | {prob_link} | `{s['source']}` | `{s['difficulty']}` | {sol_link} |")
-    lines.append("")
+    lines.append("\n</details>\n")
     lines.append("---")
     lines.append("")
 
-    # Topic-wise detailed tables
+    # Topic-wise detailed tables (Collapsible)
+    lines.append("## 📚 Apna College Sheet Questions by Topic\n")
     for t_name, t_questions in topics.items():
         t_solved = sum(1 for q in t_questions if q["id"] in matched_questions)
         t_total = len(t_questions)
+        t_percent = (t_solved / t_total * 100) if t_total else 0.0
         anchor = re.sub(r"[^a-z0-9]+", "-", t_name.lower()).strip("-")
         
-        lines.append(f"### {t_name} ({t_solved}/{t_total})")
-        lines.append("")
+        lines.append("<details>")
+        lines.append(f"<summary><h3 style=\"display:inline\" id=\"{anchor}\">📂 {t_name} &nbsp;—&nbsp; {t_solved}/{t_total} Solved ({t_percent:.1f}%)</h3></summary>\n")
         lines.append("| Status | # | Problem | Companies | Notes / Remarks | Solution |")
         lines.append("| :---: | :---: | :--- | :--- | :--- | :--- |")
 
@@ -346,11 +347,8 @@ def main():
 
             lines.append(f"| {status} | {q_id} | {problem_link} | {companies} | {remarks} | {solution_str} |")
 
-        lines.append("")
-        lines.append("[⬆ Back to Summary](#-topic-summary)")
-        lines.append("")
-        lines.append("---")
-        lines.append("")
+        lines.append("\n[⬆ Back to Summary](#-topic-summary)\n")
+        lines.append("</details>\n")
 
     with open(README_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
