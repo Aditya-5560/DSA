@@ -9,9 +9,9 @@
 
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
-| **🎯 Apna College Sheet** | `19` | `375` | `█░░░░░░░░░░░░░░░░░` **5.1%** |
+| **🎯 Apna College Sheet** | `21` | `375` | `█░░░░░░░░░░░░░░░░░` **5.6%** |
 | **🌟 Outside Sheet Problems** | `20` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `39` | `-` | **All Platforms** |
+| **🔥 Total Solved in Repo** | `41` | `-` | **All Platforms** |
 
 ---
 
@@ -20,7 +20,7 @@
 | Topic | Solved | Total | Progress | Link |
 | :--- | :---: | :---: | :--- | :---: |
 | **Arrays** | `7` | `26` | `████░░░░░░░░░░░` 26.9% | [View](#arrays) |
-| **Strings** | `3` | `22` | `██░░░░░░░░░░░░░` 13.6% | [View](#strings) |
+| **Strings** | `4` | `22` | `███░░░░░░░░░░░░` 18.2% | [View](#strings) |
 | **2D Arrays** | `1` | `10` | `██░░░░░░░░░░░░░` 10.0% | [View](#2d-arrays) |
 | **Searching & Sorting** | `0` | `23` | `░░░░░░░░░░░░░░░` 0.0% | [View](#searching-sorting) |
 | **Backtracking** | `0` | `21` | `░░░░░░░░░░░░░░░` 0.0% | [View](#backtracking) |
@@ -32,7 +32,7 @@
 | **Heaps & Hashing** | `0` | `28` | `░░░░░░░░░░░░░░░` 0.0% | [View](#heaps-hashing) |
 | **Graphs** | `0` | `40` | `░░░░░░░░░░░░░░░` 0.0% | [View](#graphs) |
 | **Tries** | `0` | `6` | `░░░░░░░░░░░░░░░` 0.0% | [View](#tries) |
-| **Dynamic Programming** | `0` | `54` | `░░░░░░░░░░░░░░░` 0.0% | [View](#dynamic-programming) |
+| **Dynamic Programming** | `1` | `54` | `░░░░░░░░░░░░░░░` 1.9% | [View](#dynamic-programming) |
 | **Bit Manipulation** | `0` | `10` | `░░░░░░░░░░░░░░░` 0.0% | [View](#bit-manipulation) |
 | **Segment Trees** | `1` | `6` | `██░░░░░░░░░░░░░` 16.7% | [View](#segment-trees) |
 
@@ -109,7 +109,7 @@
 </details>
 
 <details>
-<summary><h3 style="display:inline" id="strings">📂 Strings &nbsp;—&nbsp; 3/22 Solved (13.6%)</h3></summary>
+<summary><h3 style="display:inline" id="strings">📂 Strings &nbsp;—&nbsp; 4/22 Solved (18.2%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -123,7 +123,7 @@
 | ✅ | 34 | [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Morgan Stanley + Amazon IQ | - | [LeetCode](Leetcode/3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java) |
 | ⬜ | 35 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Amazon Google | - | - |
 | ⬜ | 36 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Samsung + Adobe + Amazon Interview Qs | - | - |
-| ⬜ | 37 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Microsoft + Google + Samsung + Visa IQ | - | - |
+| ✅ | 37 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Microsoft + Google + Samsung + Visa IQ | - | [LeetCode](Leetcode/5-longest-palindromic-substring/longest-palindromic-substring.java) |
 | ⬜ | 38 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Microsoft IQ | - | - |
 | ✅ | 39 | [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1) | Adobe + Goldman Sachs + Uber | - | [GFG](Geeks%20For%20Geeks/Next%20Permutation/solution.java) |
 | ⬜ | 40 | [Count Palindromic Subsequences](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1) | Myntra Interview Qs | - | - |
@@ -508,7 +508,7 @@
 </details>
 
 <details>
-<summary><h3 style="display:inline" id="dynamic-programming">📂 Dynamic Programming &nbsp;—&nbsp; 0/54 Solved (0.0%)</h3></summary>
+<summary><h3 style="display:inline" id="dynamic-programming">📂 Dynamic Programming &nbsp;—&nbsp; 1/54 Solved (1.9%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -552,7 +552,7 @@
 | ⬜ | 343 | [Partition Equal Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1) | Amazon + Accolite + Traveloca + Adobe | - | - |
 | ⬜ | 344 | [Longest Palindromic Subsequnce](https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/) | Amazon Google | - | - |
 | ⬜ | 345 | [Count Palindromic Subsequences](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1) | Myntra | - | - |
-| ⬜ | 346 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Amazon + Microsoft + Samsung + Visa | - | - |
+| ✅ | 346 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Amazon + Microsoft + Samsung + Visa | - | [LeetCode](Leetcode/5-longest-palindromic-substring/longest-palindromic-substring.java) |
 | ⬜ | 347 | [Longest Alternating Sequence](https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence5951/1) | Ola | - | - |
 | ⬜ | 348 | [Weighted Job Scheduling](https://www.geeksforgeeks.org/weighted-job-scheduling/) | Intuit | - | - |
 | ⬜ | 349 | [Coin Game](https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/) | Salesforce | - | - |
