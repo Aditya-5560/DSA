@@ -9,9 +9,9 @@
 
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
-| **🎯 Apna College Sheet** | `21` | `375` | `█░░░░░░░░░░░░░░░░░` **5.6%** |
+| **🎯 Apna College Sheet** | `22` | `375` | `█░░░░░░░░░░░░░░░░░` **5.9%** |
 | **🌟 Outside Sheet Problems** | `23` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `44` | `-` | **All Platforms** |
+| **🔥 Total Solved in Repo** | `45` | `-` | **All Platforms** |
 
 ---
 
@@ -29,7 +29,7 @@
 | **Greedy** | `0` | `22` | `░░░░░░░░░░░░░░░` 0.0% | [View](#greedy) |
 | **Binary Trees** | `0` | `33` | `░░░░░░░░░░░░░░░` 0.0% | [View](#binary-trees) |
 | **Binary Search Trees** | `0` | `21` | `░░░░░░░░░░░░░░░` 0.0% | [View](#binary-search-trees) |
-| **Heaps & Hashing** | `0` | `28` | `░░░░░░░░░░░░░░░` 0.0% | [View](#heaps-hashing) |
+| **Heaps & Hashing** | `1` | `28` | `█░░░░░░░░░░░░░░` 3.6% | [View](#heaps-hashing) |
 | **Graphs** | `0` | `40` | `░░░░░░░░░░░░░░░` 0.0% | [View](#graphs) |
 | **Tries** | `0` | `6` | `░░░░░░░░░░░░░░░` 0.0% | [View](#tries) |
 | **Dynamic Programming** | `1` | `54` | `░░░░░░░░░░░░░░░` 1.9% | [View](#dynamic-programming) |
@@ -407,13 +407,13 @@
 </details>
 
 <details>
-<summary><h3 style="display:inline" id="heaps-hashing">📂 Heaps & Hashing &nbsp;—&nbsp; 0/28 Solved (0.0%)</h3></summary>
+<summary><h3 style="display:inline" id="heaps-hashing">📂 Heaps & Hashing &nbsp;—&nbsp; 1/28 Solved (3.6%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
 | ⬜ | 232 | [Choose k array elements such that difference of maximum and minimum is minimized](https://www.geeksforgeeks.org/k-numbers-difference-maximum-minimum-k-number-minimized/) | - | - | - |
 | ⬜ | 233 | [Heap Sort](https://www.geeksforgeeks.org/heap-sort/) | Adobe | - | - |
-| ⬜ | 234 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Amazon Microsoft | - | - |
+| ✅ | 234 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Amazon Microsoft | - | [LeetCode](Leetcode/347-top-k-frequent-elements/top-k-frequent-elements.java) |
 | ⬜ | 235 | [k largest elements in an array](https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/) | Amazon Microsoft Walmart Adobe | - | - |
 | ⬜ | 236 | [Next Greater Element](https://www.geeksforgeeks.org/next-greater-element/) | Amazon + Microsoft + Flipkart + Adobe | - | - |
 | ⬜ | 237 | [K’th Smallest/Largest Element in Unsorted Array](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/) | ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe | - | - |
