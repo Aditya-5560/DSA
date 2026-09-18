@@ -10,8 +10,8 @@
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
 | **🎯 Apna College Sheet** | `22` | `375` | `█░░░░░░░░░░░░░░░░░` **5.9%** |
-| **🌟 Outside Sheet Problems** | `24` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `46` | `-` | **All Platforms** |
+| **🌟 Outside Sheet Problems** | `25` | `-` | `██████████████████` **Tracked** |
+| **🔥 Total Solved in Repo** | `47` | `-` | **All Platforms** |
 
 ---
 
@@ -39,9 +39,9 @@
 ---
 
 <details>
-<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (24 Extra Solved)</h2></summary>
+<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (25 Extra Solved)</h2></summary>
 
-> Additional `24` problems solved on LeetCode / GFG outside the Apna College sheet.
+> Additional `25` problems solved on LeetCode / GFG outside the Apna College sheet.
 
 | # | Problem | Platform | Difficulty | Solution |
 | :---: | :--- | :---: | :---: | :---: |
@@ -50,25 +50,26 @@
 | 3 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/1567-maximum-number-of-vowels-in-a-substring-of-given-length/maximum-number-of-vowels-in-a-substring-of-given-length.java) |
 | 4 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum/find-two-non-overlapping-sub-arrays-each-with-target-sum.java) |
 | 5 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/1603-running-sum-of-1d-array/running-sum-of-1d-array.java) |
-| 6 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.java) |
-| 7 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/1725-number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.java) |
-| 8 | [4Sum](https://leetcode.com/problems/4sum/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/18-4sum/4sum.java) |
-| 9 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/22-generate-parentheses/generate-parentheses.java) |
-| 10 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/2559-maximum-number-of-non-overlapping-palindrome-substrings/maximum-number-of-non-overlapping-palindrome-substrings.java) |
-| 11 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java) |
-| 12 | [Remove Element](https://leetcode.com/problems/remove-element/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/27-remove-element/remove-element.java) |
-| 13 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/283-move-zeroes/move-zeroes.java) |
-| 14 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/3225-length-of-longest-subarray-with-at-most-k-frequency/length-of-longest-subarray-with-at-most-k-frequency.java) |
-| 15 | [Reverse String](https://leetcode.com/problems/reverse-string/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/344-reverse-string/reverse-string.java) |
-| 16 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/345-reverse-vowels-of-a-string/reverse-vowels-of-a-string.java) |
-| 17 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/35-search-insert-position/search-insert-position.java) |
-| 18 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/58-length-of-last-word/length-of-last-word.java) |
-| 19 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/643-maximum-average-subarray-i/maximum-average-subarray-i.java) |
-| 20 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/7-reverse-integer/reverse-integer.java) |
-| 21 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/724-find-pivot-index/find-pivot-index.java) |
-| 22 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/838-design-linked-list/design-linked-list.java) |
-| 23 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/908-middle-of-the-linked-list/middle-of-the-linked-list.java) |
-| 24 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/917-boats-to-save-people/boats-to-save-people.java) |
+| 6 | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/1644-maximum-number-of-non-overlapping-substrings/maximum-number-of-non-overlapping-substrings.java) |
+| 7 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.java) |
+| 8 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/1725-number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.java) |
+| 9 | [4Sum](https://leetcode.com/problems/4sum/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/18-4sum/4sum.java) |
+| 10 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/22-generate-parentheses/generate-parentheses.java) |
+| 11 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | `LeetCode` | `Hard` | [LeetCode](Leetcode/2559-maximum-number-of-non-overlapping-palindrome-substrings/maximum-number-of-non-overlapping-palindrome-substrings.java) |
+| 12 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/26-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java) |
+| 13 | [Remove Element](https://leetcode.com/problems/remove-element/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/27-remove-element/remove-element.java) |
+| 14 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/283-move-zeroes/move-zeroes.java) |
+| 15 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/3225-length-of-longest-subarray-with-at-most-k-frequency/length-of-longest-subarray-with-at-most-k-frequency.java) |
+| 16 | [Reverse String](https://leetcode.com/problems/reverse-string/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/344-reverse-string/reverse-string.java) |
+| 17 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/345-reverse-vowels-of-a-string/reverse-vowels-of-a-string.java) |
+| 18 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/35-search-insert-position/search-insert-position.java) |
+| 19 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/58-length-of-last-word/length-of-last-word.java) |
+| 20 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/643-maximum-average-subarray-i/maximum-average-subarray-i.java) |
+| 21 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/7-reverse-integer/reverse-integer.java) |
+| 22 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/724-find-pivot-index/find-pivot-index.java) |
+| 23 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/838-design-linked-list/design-linked-list.java) |
+| 24 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/908-middle-of-the-linked-list/middle-of-the-linked-list.java) |
+| 25 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/917-boats-to-save-people/boats-to-save-people.java) |
 
 </details>
 
