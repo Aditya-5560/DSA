@@ -10,8 +10,8 @@
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
 | **🎯 Apna College Sheet** | `22` | `375` | `█░░░░░░░░░░░░░░░░░` **5.9%** |
-| **🌟 Outside Sheet Problems** | `26` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `48` | `-` | **All Platforms** |
+| **🌟 Outside Sheet Problems** | `27` | `-` | `██████████████████` **Tracked** |
+| **🔥 Total Solved in Repo** | `49` | `-` | **All Platforms** |
 
 ---
 
@@ -39,9 +39,9 @@
 ---
 
 <details>
-<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (26 Extra Solved)</h2></summary>
+<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (27 Extra Solved)</h2></summary>
 
-> Additional `26` problems solved on LeetCode / GFG outside the Apna College sheet.
+> Additional `27` problems solved on LeetCode / GFG outside the Apna College sheet.
 
 | # | Problem | Platform | Difficulty | Solution |
 | :---: | :--- | :---: | :---: | :---: |
@@ -64,13 +64,14 @@
 | 17 | [Reverse String](https://leetcode.com/problems/reverse-string/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/344-reverse-string/reverse-string.java) |
 | 18 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/345-reverse-vowels-of-a-string/reverse-vowels-of-a-string.java) |
 | 19 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/35-search-insert-position/search-insert-position.java) |
-| 20 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/58-length-of-last-word/length-of-last-word.java) |
-| 21 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/643-maximum-average-subarray-i/maximum-average-subarray-i.java) |
-| 22 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/7-reverse-integer/reverse-integer.java) |
-| 23 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/724-find-pivot-index/find-pivot-index.java) |
-| 24 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/838-design-linked-list/design-linked-list.java) |
-| 25 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/908-middle-of-the-linked-list/middle-of-the-linked-list.java) |
-| 26 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/917-boats-to-save-people/boats-to-save-people.java) |
+| 20 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/3811-reverse-degree-of-a-string/reverse-degree-of-a-string.java) |
+| 21 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/58-length-of-last-word/length-of-last-word.java) |
+| 22 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/643-maximum-average-subarray-i/maximum-average-subarray-i.java) |
+| 23 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/7-reverse-integer/reverse-integer.java) |
+| 24 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/724-find-pivot-index/find-pivot-index.java) |
+| 25 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/838-design-linked-list/design-linked-list.java) |
+| 26 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/908-middle-of-the-linked-list/middle-of-the-linked-list.java) |
+| 27 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/917-boats-to-save-people/boats-to-save-people.java) |
 
 </details>
 
