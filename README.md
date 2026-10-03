@@ -9,9 +9,9 @@
 
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
-| **🎯 Apna College Sheet** | `22` | `375` | `█░░░░░░░░░░░░░░░░░` **5.9%** |
+| **🎯 Apna College Sheet** | `23` | `375` | `█░░░░░░░░░░░░░░░░░` **6.1%** |
 | **🌟 Outside Sheet Problems** | `39` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `61` | `-` | **All Platforms** |
+| **🔥 Total Solved in Repo** | `62` | `-` | **All Platforms** |
 
 ---
 
@@ -21,7 +21,7 @@
 | :--- | :---: | :---: | :--- | :---: |
 | **Arrays** | `7` | `26` | `████░░░░░░░░░░░` 26.9% | [View](#arrays) |
 | **Strings** | `4` | `22` | `███░░░░░░░░░░░░` 18.2% | [View](#strings) |
-| **2D Arrays** | `1` | `10` | `██░░░░░░░░░░░░░` 10.0% | [View](#2d-arrays) |
+| **2D Arrays** | `2` | `10` | `███░░░░░░░░░░░░` 20.0% | [View](#2d-arrays) |
 | **Searching & Sorting** | `0` | `23` | `░░░░░░░░░░░░░░░` 0.0% | [View](#searching-sorting) |
 | **Backtracking** | `0` | `21` | `░░░░░░░░░░░░░░░` 0.0% | [View](#backtracking) |
 | **Linked List** | `7` | `26` | `████░░░░░░░░░░░` 26.9% | [View](#linked-list) |
@@ -160,14 +160,14 @@
 </details>
 
 <details>
-<summary><h3 style="display:inline" id="2d-arrays">📂 2D Arrays &nbsp;—&nbsp; 1/10 Solved (10.0%)</h3></summary>
+<summary><h3 style="display:inline" id="2d-arrays">📂 2D Arrays &nbsp;—&nbsp; 2/10 Solved (20.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
 | ⬜ | 49 | [Zigzag (or diagonal) Traversal of Matrix](https://www.geeksforgeeks.org/zigzag-or-diagonal-traversal-of-matrix/) | Amazon | - | - |
 | ⬜ | 50 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Amazon Microsoft | - | - |
 | ✅ | 51 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Flipkart + Apple + Societe Generale IQ | - | [LeetCode](Leetcode/54-spiral-matrix/spiral-matrix.java) |
-| ⬜ | 52 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Microsoft Paytm Samsung Adobe | - | - |
+| ✅ | 52 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Microsoft Paytm Samsung Adobe | - | [LeetCode](Leetcode/48-rotate-image/rotate-image.java) |
 | ⬜ | 53 | [Word Search](https://leetcode.com/problems/word-search/) | Google + Ola + Goldman Sachs IQ | - | - |
 | ⬜ | 54 | [Find the Number of Islands | Set 1 (Using DFS)](https://www.geeksforgeeks.org/find-number-of-islands/) | Microsoft + Uber + Apple + Amazon IQ | Read about DFS | - |
 | ⬜ | 55 | [Given a Matrix of ‘O’ and ‘X’, Replace ‘O’ with ‘X’ if Surrounded by ‘X’](https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/) | Google | - | - |
