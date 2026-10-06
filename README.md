@@ -9,9 +9,9 @@
 
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
-| **🎯 Apna College Sheet** | `23` | `375` | `█░░░░░░░░░░░░░░░░░` **6.1%** |
+| **🎯 Apna College Sheet** | `24` | `375` | `█░░░░░░░░░░░░░░░░░` **6.4%** |
 | **🌟 Outside Sheet Problems** | `39` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `62` | `-` | **All Platforms** |
+| **🔥 Total Solved in Repo** | `63` | `-` | **All Platforms** |
 
 ---
 
@@ -19,7 +19,7 @@
 
 | Topic | Solved | Total | Progress | Link |
 | :--- | :---: | :---: | :--- | :---: |
-| **Arrays** | `7` | `26` | `████░░░░░░░░░░░` 26.9% | [View](#arrays) |
+| **Arrays** | `8` | `26` | `█████░░░░░░░░░░` 30.8% | [View](#arrays) |
 | **Strings** | `4` | `22` | `███░░░░░░░░░░░░` 18.2% | [View](#strings) |
 | **2D Arrays** | `2` | `10` | `███░░░░░░░░░░░░` 20.0% | [View](#2d-arrays) |
 | **Searching & Sorting** | `0` | `23` | `░░░░░░░░░░░░░░░` 0.0% | [View](#searching-sorting) |
@@ -92,13 +92,13 @@
 ## 📚 Apna College Sheet Questions by Topic
 
 <details>
-<summary><h3 style="display:inline" id="arrays">📂 Arrays &nbsp;—&nbsp; 7/26 Solved (26.9%)</h3></summary>
+<summary><h3 style="display:inline" id="arrays">📂 Arrays &nbsp;—&nbsp; 8/26 Solved (30.8%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
 | ⬜ | 1 | [Maximum and Minimum Element in an Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) | ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe | - | - |
 | ✅ | 2 | [Reverse the Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) | Infosys Moonfrog Labs | - | [GFG](Geeks%20For%20Geeks/Reverse%20Array/solution.java) |
-| ⬜ | 3 | [Maximum-Subarray](https://leetcode.com/problems/maximum-subarray/) | Microsoft + Facebook Interview Qs | use Kadane's Algorithm | - |
+| ✅ | 3 | [Maximum-Subarray](https://leetcode.com/problems/maximum-subarray/) | Microsoft + Facebook Interview Qs | use Kadane's Algorithm | [LeetCode](Leetcode/53-maximum-subarray/maximum-subarray.java) |
 | ⬜ | 4 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Amazon Interview Qs | - | - |
 | ⬜ | 5 | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/chocolate-distribution-problem/) | Amazon Interview Qs | - | - |
 | ⬜ | 6 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Microsoft Google Adobe Amazon D-E-Shaw Flipkart Hike Intuit MakeMyTrip Paytm | - | - |
