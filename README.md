@@ -10,8 +10,8 @@
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
 | **🎯 Apna College Sheet** | `24` | `375` | `█░░░░░░░░░░░░░░░░░` **6.4%** |
-| **🌟 Outside Sheet Problems** | `39` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `63` | `-` | **All Platforms** |
+| **🌟 Outside Sheet Problems** | `40` | `-` | `██████████████████` **Tracked** |
+| **🔥 Total Solved in Repo** | `64` | `-` | **All Platforms** |
 
 ---
 
@@ -39,9 +39,9 @@
 ---
 
 <details>
-<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (39 Extra Solved)</h2></summary>
+<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (40 Extra Solved)</h2></summary>
 
-> Additional `39` problems solved on LeetCode / GFG outside the Apna College sheet.
+> Additional `40` problems solved on LeetCode / GFG outside the Apna College sheet.
 
 | # | Problem | Platform | Difficulty | Solution |
 | :---: | :--- | :---: | :---: | :---: |
@@ -79,11 +79,12 @@
 | 32 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/69-sqrtx/sqrtx.java) |
 | 33 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/7-reverse-integer/reverse-integer.java) |
 | 34 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/724-find-pivot-index/find-pivot-index.java) |
-| 35 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/8-string-to-integer-atoi/string-to-integer-atoi.java) |
-| 36 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/83-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.java) |
-| 37 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/838-design-linked-list/design-linked-list.java) |
-| 38 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/908-middle-of-the-linked-list/middle-of-the-linked-list.java) |
-| 39 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/917-boats-to-save-people/boats-to-save-people.java) |
+| 35 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/75-sort-colors/sort-colors.java) |
+| 36 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/8-string-to-integer-atoi/string-to-integer-atoi.java) |
+| 37 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/83-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.java) |
+| 38 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/838-design-linked-list/design-linked-list.java) |
+| 39 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/908-middle-of-the-linked-list/middle-of-the-linked-list.java) |
+| 40 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/917-boats-to-save-people/boats-to-save-people.java) |
 
 </details>
 
