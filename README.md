@@ -9,9 +9,9 @@
 
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
-| **🎯 Apna College Sheet** | `24` | `375` | `█░░░░░░░░░░░░░░░░░` **6.4%** |
+| **🎯 Apna College Sheet** | `25` | `375` | `█░░░░░░░░░░░░░░░░░` **6.7%** |
 | **🌟 Outside Sheet Problems** | `52` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `76` | `-` | **All Platforms** |
+| **🔥 Total Solved in Repo** | `77` | `-` | **All Platforms** |
 
 ---
 
@@ -20,7 +20,7 @@
 | Topic | Solved | Total | Progress | Link |
 | :--- | :---: | :---: | :--- | :---: |
 | **Arrays** | `8` | `26` | `█████░░░░░░░░░░` 30.8% | [View](#arrays) |
-| **Strings** | `4` | `22` | `███░░░░░░░░░░░░` 18.2% | [View](#strings) |
+| **Strings** | `5` | `22` | `███░░░░░░░░░░░░` 22.7% | [View](#strings) |
 | **2D Arrays** | `2` | `10` | `███░░░░░░░░░░░░` 20.0% | [View](#2d-arrays) |
 | **Searching & Sorting** | `0` | `23` | `░░░░░░░░░░░░░░░` 0.0% | [View](#searching-sorting) |
 | **Backtracking** | `0` | `21` | `░░░░░░░░░░░░░░░` 0.0% | [View](#backtracking) |
@@ -141,11 +141,11 @@
 </details>
 
 <details>
-<summary><h3 style="display:inline" id="strings">📂 Strings &nbsp;—&nbsp; 4/22 Solved (18.2%)</h3></summary>
+<summary><h3 style="display:inline" id="strings">📂 Strings &nbsp;—&nbsp; 5/22 Solved (22.7%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
-| ⬜ | 27 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Amazon Cisco D-E-Shaw Facebook FactSet Morgan Stanley Paytm Zoho | - | - |
+| ✅ | 27 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Amazon Cisco D-E-Shaw Facebook FactSet Morgan Stanley Paytm Zoho | - | [LeetCode](Leetcode/125-valid-palindrome/valid-palindrome.java) |
 | ✅ | 28 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Nagarro Media.net Directi Google Adobe Flipkart | - | [LeetCode](Leetcode/242-valid-anagram/valid-anagram.cpp) |
 | ⬜ | 29 | [Valid parentheses](https://leetcode.com/problems/valid-parentheses/) | Google Interview Qs | use Stacks (if possible) | - |
 | ⬜ | 30 | [Remove Consecutive Characters](https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1) | Samsung + Adobe | - | - |
