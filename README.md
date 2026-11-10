@@ -9,9 +9,9 @@
 
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
-| **🎯 Apna College Sheet** | `26` | `375` | `█░░░░░░░░░░░░░░░░░` **6.9%** |
-| **🌟 Outside Sheet Problems** | `54` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `80` | `-` | **All Platforms** |
+| **🎯 Apna College Sheet** | `27` | `375` | `█░░░░░░░░░░░░░░░░░` **7.2%** |
+| **🌟 Outside Sheet Problems** | `55` | `-` | `██████████████████` **Tracked** |
+| **🔥 Total Solved in Repo** | `82` | `-` | **All Platforms** |
 
 ---
 
@@ -20,7 +20,7 @@
 | Topic | Solved | Total | Progress | Link |
 | :--- | :---: | :---: | :--- | :---: |
 | **Arrays** | `8` | `26` | `█████░░░░░░░░░░` 30.8% | [View](#arrays) |
-| **Strings** | `6` | `22` | `████░░░░░░░░░░░` 27.3% | [View](#strings) |
+| **Strings** | `7` | `22` | `█████░░░░░░░░░░` 31.8% | [View](#strings) |
 | **2D Arrays** | `2` | `10` | `███░░░░░░░░░░░░` 20.0% | [View](#2d-arrays) |
 | **Searching & Sorting** | `0` | `23` | `░░░░░░░░░░░░░░░` 0.0% | [View](#searching-sorting) |
 | **Backtracking** | `0` | `21` | `░░░░░░░░░░░░░░░` 0.0% | [View](#backtracking) |
@@ -39,9 +39,9 @@
 ---
 
 <details>
-<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (54 Extra Solved)</h2></summary>
+<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (55 Extra Solved)</h2></summary>
 
-> Additional `54` problems solved on LeetCode / GFG outside the Apna College sheet.
+> Additional `55` problems solved on LeetCode / GFG outside the Apna College sheet.
 
 | # | Problem | Platform | Difficulty | Solution |
 | :---: | :--- | :---: | :---: | :---: |
@@ -97,8 +97,9 @@
 | 50 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/8-string-to-integer-atoi/string-to-integer-atoi.java) |
 | 51 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/83-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.java) |
 | 52 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/838-design-linked-list/design-linked-list.java) |
-| 53 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/908-middle-of-the-linked-list/middle-of-the-linked-list.java) |
-| 54 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/917-boats-to-save-people/boats-to-save-people.java) |
+| 53 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/9-palindrome-number/palindrome-number.java) |
+| 54 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/908-middle-of-the-linked-list/middle-of-the-linked-list.java) |
+| 55 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/917-boats-to-save-people/boats-to-save-people.java) |
 
 </details>
 
@@ -143,7 +144,7 @@
 </details>
 
 <details>
-<summary><h3 style="display:inline" id="strings">📂 Strings &nbsp;—&nbsp; 6/22 Solved (27.3%)</h3></summary>
+<summary><h3 style="display:inline" id="strings">📂 Strings &nbsp;—&nbsp; 7/22 Solved (31.8%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -151,7 +152,7 @@
 | ✅ | 28 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Nagarro Media.net Directi Google Adobe Flipkart | - | [LeetCode](Leetcode/242-valid-anagram/valid-anagram.cpp) |
 | ✅ | 29 | [Valid parentheses](https://leetcode.com/problems/valid-parentheses/) | Google Interview Qs | use Stacks (if possible) | [LeetCode](Leetcode/20-valid-parentheses/valid-parentheses.java) |
 | ⬜ | 30 | [Remove Consecutive Characters](https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1) | Samsung + Adobe | - | - |
-| ⬜ | 31 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Adobe + Grofers + Dunzo Interview Qs | - | - |
+| ✅ | 31 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Adobe + Grofers + Dunzo Interview Qs | - | [LeetCode](Leetcode/14-longest-common-prefix/longest-common-prefix.java) |
 | ⬜ | 32 | [Convert a Sentence into its Equivalent Mobile Numeric Keypad Sequence](https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/) | Adobe | - | - |
 | ⬜ | 33 | [Print all the Duplicates in the Input String](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) | Ola + Amdocs IQ | - | - |
 | ✅ | 34 | [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Morgan Stanley + Amazon IQ | - | [LeetCode](Leetcode/3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java) |
