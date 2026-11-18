@@ -60,7 +60,7 @@
 | 13 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/1725-number-of-sets-of-k-non-overlapping-line-segments/number-of-sets-of-k-non-overlapping-line-segments.java) |
 | 14 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/1776-minimum-operations-to-reduce-x-to-zero/minimum-operations-to-reduce-x-to-zero.java) |
 | 15 | [4Sum](https://leetcode.com/problems/4sum/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/18-4sum/4sum.java) |
-| 16 | [Happy Number](https://leetcode.com/problems/happy-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/202-happy-number/happy-number.java) |
+| 16 | [Happy Number](https://leetcode.com/problems/happy-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/202-happy-number/happy-number.cpp) |
 | 17 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/205-isomorphic-strings/isomorphic-strings.java) |
 | 18 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/22-generate-parentheses/generate-parentheses.java) |
 | 19 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/2215-finding-3-digit-even-numbers/finding-3-digit-even-numbers.java) |
