@@ -10,8 +10,8 @@
 | Metric | Solved | Total | Progress |
 | :--- | :---: | :---: | :--- |
 | **🎯 Apna College Sheet** | `27` | `375` | `█░░░░░░░░░░░░░░░░░` **7.2%** |
-| **🌟 Outside Sheet Problems** | `59` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `86` | `-` | **All Platforms** |
+| **🌟 Outside Sheet Problems** | `60` | `-` | `██████████████████` **Tracked** |
+| **🔥 Total Solved in Repo** | `87` | `-` | **All Platforms** |
 
 ---
 
@@ -39,9 +39,9 @@
 ---
 
 <details>
-<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (59 Extra Solved)</h2></summary>
+<summary><h2 style="display:inline" id="outside-sheet-problems">🌟 Outside Sheet Problems (60 Extra Solved)</h2></summary>
 
-> Additional `59` problems solved on LeetCode / GFG outside the Apna College sheet.
+> Additional `60` problems solved on LeetCode / GFG outside the Apna College sheet.
 
 | # | Problem | Platform | Difficulty | Solution |
 | :---: | :--- | :---: | :---: | :---: |
@@ -100,10 +100,11 @@
 | 53 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/8-string-to-integer-atoi/string-to-integer-atoi.java) |
 | 54 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/83-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.java) |
 | 55 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/838-design-linked-list/design-linked-list.java) |
-| 56 | [Gray Code](https://leetcode.com/problems/gray-code/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/89-gray-code/gray-code.java) |
-| 57 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/9-palindrome-number/palindrome-number.java) |
-| 58 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/908-middle-of-the-linked-list/middle-of-the-linked-list.java) |
-| 59 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/917-boats-to-save-people/boats-to-save-people.java) |
+| 56 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/88-merge-sorted-array/merge-sorted-array.java) |
+| 57 | [Gray Code](https://leetcode.com/problems/gray-code/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/89-gray-code/gray-code.java) |
+| 58 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/9-palindrome-number/palindrome-number.java) |
+| 59 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | `LeetCode` | `Easy` | [LeetCode](Leetcode/908-middle-of-the-linked-list/middle-of-the-linked-list.java) |
+| 60 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | `LeetCode` | `Medium` | [LeetCode](Leetcode/917-boats-to-save-people/boats-to-save-people.java) |
 
 </details>
 
